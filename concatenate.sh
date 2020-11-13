@@ -2,7 +2,7 @@
 
 set -e
 
-mkdir -p inputs
+mkdir -p input
 
 if [ -z "$(ls -A ./input)" ]
 then
